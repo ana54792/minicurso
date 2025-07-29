@@ -22,12 +22,12 @@ Esta é a lista oficial dos desenvolvedores que se juntaram a esta causa nobre.
 
 **Sua missão:** Adicione seu nome e seu usuário do GitHub a esta tabela! Este será o seu primeiro ato de rebeldia contra o caos.
 
-| Nome Completo         | Usuário no GitHub   | Superpoder com Git                            |
-| --------------------- | ------------------- | --------------------------------------------- |
-| **Ana Raquel Nóbrega Santos**  | **➡️ @ana54792** | **➡️ agora eu sei usar github**     |
-|                       |                     |                                               |
-|                       |                     |                                               |
-|                       |                     |                                               |
+| Nome Completo       | Usuário no GitHub  | Superpoder com Git                       |
+| ------------------- | ------------------ | ---------------------------------------- |
+| **➡️ Seu Nome Aqui** | **➡️ @seu-usuario** | **➡️ Descreva aqui sua nova habilidade!** |
+| Ana Raquel Nóbrega  | @ana54792          | agora eu sei usar git                    |
+|                     |                    |                                          |
+|                     |                    |                                          |
 
 ---
 
